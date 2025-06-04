@@ -28,9 +28,10 @@ The following tools are installed:
 
 # First start
 
+Under `Use this template` > `Create a new repository` to create a copy of this template repository.
+
+Then install the dependencies and launch the environment:
 ```
-git clone --depth=1 git@github.com:svandragt/yak.git my-yak && cd my-yak
-rm -rf .git
 ddev composer install
 ddev launch
 ```
