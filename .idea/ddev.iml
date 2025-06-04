@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/content/plugins/hm-redirects/vendor/sebastian/diff/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/wordpress/wp-includes" isTestSource="false" packagePrefix="PHPMailer" />
+      <sourceFolder url="file://$MODULE_DIR$/wordpress/wp-includes/SimplePie/src" isTestSource="false" packagePrefix="SimplePie" />
+      <excludeFolder url="file://$MODULE_DIR$/.ddev/.dbimageBuild" />
+      <excludeFolder url="file://$MODULE_DIR$/.ddev/.homeadditions" />
+      <excludeFolder url="file://$MODULE_DIR$/.ddev/.webimageBuild" />
+      <excludeFolder url="file://$MODULE_DIR$/.ddev/db_snapshots" />
+      <excludeFolder url="file://$MODULE_DIR$/content/mu-plugins/debug-bar-elasticpress" />
+      <excludeFolder url="file://$MODULE_DIR$/content/mu-plugins/query-monitor" />
+      <excludeFolder url="file://$MODULE_DIR$/content/mu-plugins/query-monitor/vendor" />
+      <excludeFolder url="file://$MODULE_DIR$/content/mu-plugins/redis-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/content/mu-plugins/redis-cache/dependencies/vendor" />
+      <excludeFolder url="file://$MODULE_DIR$/content/mu-plugins/user-switching" />
+      <excludeFolder url="file://$MODULE_DIR$/content/plugins/debug-bar-elasticpress" />
+      <excludeFolder url="file://$MODULE_DIR$/content/plugins/query-monitor" />
+      <excludeFolder url="file://$MODULE_DIR$/content/plugins/query-monitor/vendor" />
+      <excludeFolder url="file://$MODULE_DIR$/content/plugins/redis-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/content/plugins/user-switching" />
+      <excludeFolder url="file://$MODULE_DIR$/content/themes/twentyeleven" />
+      <excludeFolder url="file://$MODULE_DIR$/content/themes/twentyfifteen" />
+      <excludeFolder url="file://$MODULE_DIR$/content/themes/twentyfourteen" />
+      <excludeFolder url="file://$MODULE_DIR$/content/themes/twentynineteen" />
+      <excludeFolder url="file://$MODULE_DIR$/content/themes/twentyseventeen" />
+      <excludeFolder url="file://$MODULE_DIR$/content/themes/twentysixteen" />
+      <excludeFolder url="file://$MODULE_DIR$/content/themes/twentyten" />
+      <excludeFolder url="file://$MODULE_DIR$/content/themes/twentythirteen" />
+      <excludeFolder url="file://$MODULE_DIR$/content/themes/twentytwelve" />
+      <excludeFolder url="file://$MODULE_DIR$/content/themes/twentytwenty" />
+      <excludeFolder url="file://$MODULE_DIR$/content/themes/twentytwentyfive" />
+      <excludeFolder url="file://$MODULE_DIR$/content/themes/twentytwentyfour" />
+      <excludeFolder url="file://$MODULE_DIR$/content/themes/twentytwentyone" />
+      <excludeFolder url="file://$MODULE_DIR$/content/themes/twentytwentythree" />
+      <excludeFolder url="file://$MODULE_DIR$/content/themes/twentytwentytwo" />
+      <excludeFolder url="file://$MODULE_DIR$/content/uploads" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/dataSources" />
+      <excludeFolder url="file://$MODULE_DIR$/content/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/content/languages" />
+      <excludeFolder url="file://$MODULE_DIR$/content/mu-plugins/elasticpress" />
+      <excludeFolder url="file://$MODULE_DIR$/content/mu-plugins/surge" />
+      <excludeFolder url="file://$MODULE_DIR$/content/plugins" />
+      <excludeFolder url="file://$MODULE_DIR$/content/plugins/bookmarks/import" />
+      <excludeFolder url="file://$MODULE_DIR$/content/plugins/bookmarks/tools" />
+      <excludeFolder url="file://$MODULE_DIR$/content/plugins/bookmarks/vendor" />
+      <excludeFolder url="file://$MODULE_DIR$/content/plugins/hm-redirects/.devbox/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/content/plugins/hm-redirects/.devbox/gen" />
+      <excludeFolder url="file://$MODULE_DIR$/content/plugins/hm-redirects/.devbox/nix" />
+      <excludeFolder url="file://$MODULE_DIR$/content/plugins/hm-redirects/.devbox/virtenv" />
+      <excludeFolder url="file://$MODULE_DIR$/content/plugins/hm-redirects/vendor" />
+      <excludeFolder url="file://$MODULE_DIR$/content/plugins/htmxpress/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/content/plugins/htmxpress/vendor" />
+      <excludeFolder url="file://$MODULE_DIR$/content/themes" />
+      <excludeFolder url="file://$MODULE_DIR$/content/upgrade" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

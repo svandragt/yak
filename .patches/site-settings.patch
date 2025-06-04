@@ -1,0 +1,21 @@
+Index: wp-config.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/wp-config.php b/wp-config.php
+--- a/wp-config.php	
++++ b/wp-config.php	(date 1733311530978)
+@@ -25,7 +25,11 @@
+ 
+ /* Add any custom values between this line and the "stop editing" line. */
+ 
+-
++// Include custom settings
++$site_settings = __DIR__ . '/wp-config-site.php';
++if ( is_readable( $site_settings ) ) {
++	require_once( $site_settings );
++}
+ 
+ /* That's all, stop editing! Happy publishing. */
+ 

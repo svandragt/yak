@@ -1,0 +1,19 @@
+### WordPress template
+# Wordpress - ignore core, configuration, examples, uploads and logs.
+# https://github.com/github/gitignore/blob/main/WordPress.gitignore
+
+# Core
+/wordpress/
+/content/languages/
+/content/upgrade/
+
+# Configuration
+wp-config.php
+wp-config-ddev.php
+
+# Log files
+*.log
+
+# User project
+!/content/plugins/loader.php
+/content/mu-plugins/
