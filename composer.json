@@ -53,7 +53,7 @@
     },
     "extra": {
         "installer-paths": {
-            "content/mu-plugins/{$name}/": [
+            "content/mu-plugins/vendor/{$name}/": [
                 "type:wordpress-muplugin",
                 "wpackagist-plugin/debug-bar-elasticpress",
                 "wpackagist-plugin/elasticpress",
@@ -61,7 +61,7 @@
                 "wpackagist-plugin/redis-cache",
                 "wpackagist-plugin/user-switching"
             ],
-            "content/plugins/{$name}/": [
+            "content/plugins/vendor/{$name}/": [
                 "type:wordpress-plugin"
             ],
             "content/themes/{$name}/": [

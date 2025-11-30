@@ -15,5 +15,4 @@ wp-config-ddev.php
 *.log
 
 # User project
-!/content/plugins/loader.php
-/content/mu-plugins/
+/composer.lock
