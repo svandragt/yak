@@ -14,5 +14,8 @@ wp-config-ddev.php
 # Log files
 *.log
 
+# Plugin managed
+/content/object-cache.php
+
 # User project
 /composer.lock
