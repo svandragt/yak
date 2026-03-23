@@ -1,0 +1,106 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "github:NixOS/nixpkgs/nixpkgs-unstable": {
+      "last_modified": "2025-11-23T21:50:36Z",
+      "resolved": "github:NixOS/nixpkgs/ee09932cedcef15aaf476f9343d1dea2cb77e261?lastModified=1763934636&narHash=sha256-9glbI7f1uU%2ByzQCq5LwLgdZqx6svOhZWkd4JRY265fc%3D"
+    },
+    "php82@latest": {
+      "last_modified": "2025-11-23T21:50:36Z",
+      "plugin_version": "0.0.3",
+      "resolved": "github:NixOS/nixpkgs/ee09932cedcef15aaf476f9343d1dea2cb77e261#php82",
+      "source": "devbox-search",
+      "version": "8.2.29",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/swf806nmsdhr3zynv71fg3f7gn5b4khy-php-with-extensions-8.2.29",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/swf806nmsdhr3zynv71fg3f7gn5b4khy-php-with-extensions-8.2.29"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/0qskj2bs8mm6bambb3jlhz13jkb58c1n-php-with-extensions-8.2.29",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/0qskj2bs8mm6bambb3jlhz13jkb58c1n-php-with-extensions-8.2.29"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/azdb72wrn9ma4faxflvrma0w28a0ifan-php-with-extensions-8.2.29",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/azdb72wrn9ma4faxflvrma0w28a0ifan-php-with-extensions-8.2.29"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/w15n9w2b1dklclxf6y2y216i8zkr4xc0-php-with-extensions-8.2.29",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/w15n9w2b1dklclxf6y2y216i8zkr4xc0-php-with-extensions-8.2.29"
+        }
+      }
+    },
+    "wp-cli@latest": {
+      "last_modified": "2025-11-23T21:50:36Z",
+      "resolved": "github:NixOS/nixpkgs/ee09932cedcef15aaf476f9343d1dea2cb77e261#wp-cli",
+      "source": "devbox-search",
+      "version": "2.12.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/c695w9w6qrbqh6lhi80sk4h8z2hcn0rb-wp-cli-2.12.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/c695w9w6qrbqh6lhi80sk4h8z2hcn0rb-wp-cli-2.12.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/1mygxf2wgk8iwq4bvjn514mwvp0x20zl-wp-cli-2.12.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/1mygxf2wgk8iwq4bvjn514mwvp0x20zl-wp-cli-2.12.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/1yc1vy7f7k8h77byl1627xl2nlmkm9px-wp-cli-2.12.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/1yc1vy7f7k8h77byl1627xl2nlmkm9px-wp-cli-2.12.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/rz0h9k1hydrybnhsc2h3n4rhvnyxszyb-wp-cli-2.12.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/rz0h9k1hydrybnhsc2h3n4rhvnyxszyb-wp-cli-2.12.0"
+        }
+      }
+    }
+  }
+}
