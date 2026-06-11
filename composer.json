@@ -12,7 +12,7 @@
     "require": {
         "cweagans/composer-patches": "dev-main",
         "humanmade/batcache": "dev-master",
-        "johnpbloch/wordpress": "^6.7",
+        "johnpbloch/wordpress": "^7.0",
         "wpackagist-plugin/elasticpress": "^5.1",
         "wpackagist-plugin/redis-cache": "^2.5",
         "wpackagist-theme/twentytwentyfive": "^1.0"
