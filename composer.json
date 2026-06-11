@@ -21,7 +21,7 @@
         "phpunit/phpunit": "^11.0",
         "roave/security-advisories": "dev-latest",
         "wpackagist-plugin/debug-bar-elasticpress": "^4.0",
-        "wpackagist-plugin/query-monitor": "^3.17",
+        "wpackagist-plugin/query-monitor": "^4.0",
         "wpackagist-plugin/user-switching": "^1.9"
     },
     "repositories": {
