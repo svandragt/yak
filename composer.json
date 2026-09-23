@@ -14,7 +14,7 @@
         "humanmade/batcache": "dev-master",
         "johnpbloch/wordpress": "^7.0",
         "wpackagist-plugin/elasticpress": "^5.1",
-        "wpackagist-plugin/redis-cache": "^2.5",
+        "wpackagist-plugin/redis-cache": "^3.0",
         "wpackagist-theme/twentytwentyfive": "^1.0"
     },
     "require-dev": {
